@@ -123,10 +123,6 @@ A função `hard_response()` atua como um **mecanismo de memória inteligente**,
 Essa solução, combinada com **prompt engineering e cache adaptativo**, resultou em uma arquitetura **rápida, barata e robusta**, capaz de lidar com variações de layout mantendo alta precisão.
 
 ---
-Excelente ideia — essa seção vai mostrar visão de engenharia de sistemas e domínio de controle aplicado à IA, algo bem diferenciado.
-Aqui está o texto pronto, redigido em tom técnico e de portfólio para o seu `README.md`:
-
----
 
 ## 🔄 Solução Avançada: Pipeline em Malha de Controle
 
