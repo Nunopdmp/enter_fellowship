@@ -4,7 +4,7 @@
 
 ### 🛠️ Pré-requisitos
 
-Certifique-se de ter o **Python 3.10+** instalado.
+Certifique-se de ter o **Python 3.13** instalado.
 Depois, instale todas as dependências necessárias com:
 
 ```bash
